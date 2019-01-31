@@ -1,0 +1,9 @@
+C:\Users\Georgi\Desktop\Bikes\Bikes\bin\Debug\Bikes.exe.config
+C:\Users\Georgi\Desktop\Bikes\Bikes\obj\Debug\Bikes.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Desktop\Bikes\Bikes\obj\Debug\Bikes.Form1.resources
+C:\Users\Georgi\Desktop\Bikes\Bikes\obj\Debug\Bikes.Properties.Resources.resources
+C:\Users\Georgi\Desktop\Bikes\Bikes\obj\Debug\Bikes.csproj.GenerateResource.Cache
+C:\Users\Georgi\Desktop\Bikes\Bikes\bin\Debug\Bikes.exe
+C:\Users\Georgi\Desktop\Bikes\Bikes\bin\Debug\Bikes.pdb
+C:\Users\Georgi\Desktop\Bikes\Bikes\obj\Debug\Bikes.exe
+C:\Users\Georgi\Desktop\Bikes\Bikes\obj\Debug\Bikes.pdb
