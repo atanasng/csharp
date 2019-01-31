@@ -1,0 +1,24 @@
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.blank.resources
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FindForm.resources
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmmain.resources
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.About.resources
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\sit 2A 2016\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.About.resources
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.blank.resources
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FindForm.resources
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmain.resources
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Radi\Desktop\upr9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
