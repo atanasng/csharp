@@ -1,0 +1,10 @@
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\bin\Debug\upr 3 zad 1.exe.config
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\bin\Debug\upr 3 zad 1.exe
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\bin\Debug\upr 3 zad 1.pdb
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\obj\Debug\upr 3 zad 1.csprojResolveAssemblyReference.cache
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\obj\Debug\upr_3_zad_1.Form1.resources
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\obj\Debug\upr_3_zad_1.Form2.resources
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\obj\Debug\upr_3_zad_1.Properties.Resources.resources
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\obj\Debug\upr 3 zad 1.csproj.GenerateResource.Cache
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\obj\Debug\upr 3 zad 1.exe
+D:\sit 2A 2016\upr 3 zad 1\upr 3 zad 1\obj\Debug\upr 3 zad 1.pdb

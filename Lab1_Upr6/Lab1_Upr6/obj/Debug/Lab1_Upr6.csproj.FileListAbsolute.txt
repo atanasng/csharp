@@ -1,0 +1,8 @@
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\bin\Debug\Lab1_Upr6.exe.config
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\bin\Debug\Lab1_Upr6.exe
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\bin\Debug\Lab1_Upr6.pdb
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\obj\Debug\Lab1_Upr6.Form1.resources
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\obj\Debug\Lab1_Upr6.Properties.Resources.resources
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\obj\Debug\Lab1_Upr6.csproj.GenerateResource.Cache
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\obj\Debug\Lab1_Upr6.exe
+D:\sit 2A 2016\Lab1_Upr6\Lab1_Upr6\obj\Debug\Lab1_Upr6.pdb
